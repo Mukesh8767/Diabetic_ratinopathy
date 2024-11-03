@@ -1,18 +1,21 @@
 # A machine learning-based project for detecting the severity of diabetic retinopathy from retinal images using transfer learning on DenseNet121. This project aims to provide accurate classification of retinopathy severity, assisting in early diagnosis and treatment planning.
+
  Datasetet link : https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data
+ 
 Table of Contents
 
-Project Overview
-Features
-Dataset
-Requirements
-Installation
-Usage
-Model Training
-Results
-Contributions
-Acknowledgments
-Project Overview
+Project Overview,
+Features,
+Dataset,
+Requirements,
+Installation,
+Usage,
+Model Training,
+Results,
+Contributions,
+Acknowledgments,
+Project Overview,
+
 Diabetic retinopathy is a complication of diabetes that affects the eyes and can lead to vision loss if left untreated. This project uses deep learning techniques to analyze retinal images and classify them into five categories: No_DR, Mild, Moderate, Severe, and Proliferative_DR. The model utilizes the DenseNet121 architecture with transfer learning to improve accuracy and reduce training time.
 
 Features
